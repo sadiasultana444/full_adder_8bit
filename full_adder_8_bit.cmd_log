@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/full_adder/full_adder_8_bit.xst" -ofn "/home/ise/full_adder/full_adder_8_bit.syr" 
